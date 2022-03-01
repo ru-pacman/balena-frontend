@@ -26,5 +26,8 @@
     "ejs": "~3.1.6",
     "express": "~4.17.1",
     "serve-favicon": "~2.5.0"
+  },
+  "versionist": {
+    "publishedAt": "2022-03-01T19:26:34.025Z"
   }
 }
