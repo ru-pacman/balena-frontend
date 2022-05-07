@@ -1,6 +1,6 @@
 # A Simple Server with Node.js Express
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/balena-io-examples/balena-node-hello-world)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/ru-pacman/balena-frontend)
 
 This is a simple skeleton Express server project that works on any of the [balena][balena-link] supported devices.
 
